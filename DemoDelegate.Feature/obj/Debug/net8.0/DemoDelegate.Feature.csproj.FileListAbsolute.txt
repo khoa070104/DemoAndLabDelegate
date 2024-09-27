@@ -1,0 +1,11 @@
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\bin\Debug\net8.0\DemoDelegate.Feature.deps.json
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\bin\Debug\net8.0\DemoDelegate.Feature.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\bin\Debug\net8.0\DemoDelegate.Feature.pdb
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\refint\DemoDelegate.Feature.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\DemoDelegate.Feature.pdb
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate.Feature\obj\Debug\net8.0\ref\DemoDelegate.Feature.dll

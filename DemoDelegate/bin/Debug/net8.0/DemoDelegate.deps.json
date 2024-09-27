@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DemoDelegate/1.0.0": {
+        "dependencies": {
+          "DemoDelegate.Feature": "1.0.0"
+        },
+        "runtime": {
+          "DemoDelegate.dll": {}
+        }
+      },
+      "DemoDelegate.Feature/1.0.0": {
+        "runtime": {
+          "DemoDelegate.Feature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoDelegate.Feature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
