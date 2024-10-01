@@ -15,10 +15,10 @@ namespace DemoDelegate
         {
             Console.WriteLine("Menu");
             Console.WriteLine("1. Test Declare Delegate");
-            Console.WriteLine("2. Test Declare Delegate");
-            Console.WriteLine("3. Test Declare Delegate");
-            Console.WriteLine("4. Test Declare Delegate");
-            Console.WriteLine("5. Test Declare Delegate");
+            Console.WriteLine("2. Test Pass Delegate");
+            Console.WriteLine("3. Test Multi Delegate");
+            Console.WriteLine("4. Test Anonymous Method");
+            Console.WriteLine("5. Test Generic Delegate");
             Console.WriteLine("6. Quit");
         }
         static void Main(string[] args)

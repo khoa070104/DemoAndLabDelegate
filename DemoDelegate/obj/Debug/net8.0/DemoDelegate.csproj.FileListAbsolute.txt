@@ -16,3 +16,4 @@ E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate\bin\Debug\net8.0\DemoDe
 E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate\bin\Debug\net8.0\DemoDelegate.Feature.pdb
 E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate\obj\Debug\net8.0\DemoDelegate.csproj.AssemblyReference.cache
 E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate\obj\Debug\net8.0\DemoDele.FF701713.Up2Date
+E:\Documents\CSharpForBeginner\DemoDelegate\DemoDelegate\obj\Debug\net8.0\DemoDelegate.sourcelink.json

@@ -1,0 +1,15 @@
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\bin\Debug\net8.0\Lab4.Delegate_Q1.exe
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\bin\Debug\net8.0\Lab4.Delegate_Q1.deps.json
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\bin\Debug\net8.0\Lab4.Delegate_Q1.runtimeconfig.json
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\bin\Debug\net8.0\Lab4.Delegate_Q1.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\bin\Debug\net8.0\Lab4.Delegate_Q1.pdb
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.sourcelink.json
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\refint\Lab4.Delegate_Q1.dll
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.pdb
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\Lab4.Delegate_Q1.genruntimeconfig.cache
+E:\Documents\CSharpForBeginner\DemoDelegate\Lab4.Delegate_Q1\obj\Debug\net8.0\ref\Lab4.Delegate_Q1.dll
